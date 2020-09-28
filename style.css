@@ -1,0 +1,11 @@
+.maroon {
+    background-color: maroon;
+    color: white;
+}
+.white {
+    background-color: white;
+    color: maroon;
+}
+.bold {
+    font-weight: bold;
+}
